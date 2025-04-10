@@ -34,4 +34,7 @@ Single Scale Retinex (SSR),Contrast Limited Adaptive Histogram Equalization (CLA
 *Improve User Interface
 
 [Enhancement Screenshots]![image](https://github.com/user-attachments/assets/555e6369-b39a-497c-bcb5-f86f7d1d1627)
-[User Interface]![image](https://github.com/user-attachments/assets/5f5c58b5-43ee-4414-9409-743b11b3bb79)
+[User Interface]![image](![Screenshot 2025-04-10 232616](https://github.com/user-attachments/assets/9e69aaf3-00d2-4705-a944-a52067809750)
+![Screenshot 2025-04-10 232711](https://github.com/user-attachments/assets/5e06e21b-7509-45ea-aec7-f912845e5bf9)
+
+
